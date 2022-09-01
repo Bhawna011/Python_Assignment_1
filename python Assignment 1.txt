@@ -1,0 +1,68 @@
+python Assignment 1
+
+1. Write a command to get the Python version you are using.
+C:\Users\bhawna>py (in cmd)
+or
+ import sys
+ print (sys.version)  in python shell (py file)
+ x---------------x------------x-----------------------x---------------x---------------x
+
+2. Write a python script to print Hello Python on the screen directly in the command
+line
+print ("Hello Python")   (in Idle)
+Hello Python
+x---------------x-----------x-------------------------x------------------x-----------------x
+
+3. Write a python script and store it in a file and execute the file from the command line
+C:\Users\bhawna> star.py  (in cmd )
+5 (output)
+x-------------x----------------x-----------------------x--------------------x--------------x
+
+x-------------------------x------------x--------------------------x------------------x----------x-
+5.. Write a python script to print Hello on the first line and Python on the second line
+print("Hello")
+print ("Python")
+or
+print("Hello" , "Pyhton" , sep='\n')
+
+x----------------------x---------------------------------------x------------------------------x-------x
+6. Write a python script to print “MySirG” on the screen
+print(' "MySirG" ')
+OR
+print("\"MySirG\"")
+
+x--------------------------------------x-------------------------------------------x-------------------------------x
+7. Write a python script to print “Teacher’s Day” on the screen
+print(' “Teacher’s Day” ')
+
+X------------------------------------X-------------------------------------------X-----------------------------------X
+8. Write a python script to print the value of a variable. Variable contains your name as
+data.
+x="My Name is Bhawna"
+print(x)
+
+x----------------------------------x------------------------------------------x----------------------------------------x
+
+9. Write a python script to create variables to store your name, age, qualification, years
+of experience and print it.
+a="Bhawna"
+b=22
+c="BCA"
+d=2
+print(a,b,c,d)
+print(a,b,c,d,sep="\n")
+
+X------------------------------------x--------------------------------x-------------------------------x---------------------x-
+
+10. Write a python script to print values of three variables, each in a new line. Variable
+contains integer value.
+a=10
+b=22
+c=20
+print(a,b,c)
+print(a,b,c,sep="\n")
+print(a)
+print(b)
+print(c)
+
+x---------------------------x---------------------------------x-------------------------------------x---------------------------------x
